@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1668885989 source:c:\users\lenovo\desktop\starslab4\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+	<vector>
+	<queue>
+
+1669150510 source:f:\starslab4\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+	<vector>
+	<queue>
+
